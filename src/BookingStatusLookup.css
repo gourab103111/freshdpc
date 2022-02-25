@@ -1,0 +1,19 @@
+.imgtagclass {
+  /*
+  width: 200px !important;
+  height: 100px !important;
+  */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ptagclass {
+  color: #dd817b !important;
+  text-align: center;
+}
+
+.atagclass {
+  color: #7fdc7b !important;
+  text-align: center;
+}

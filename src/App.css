@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'proxima_nova_rgregular';
+    src: url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.eot');
+    src: url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.woff') format('woff'),
+         url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.ttf') format('truetype'),
+         url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_nova_rgbold';
+    src: url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.eot');
+    src: url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.woff') format('woff'),
+         url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.ttf') format('truetype'),
+         url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'adelle_rgregular';
+    src: url('https://litmus.com/fonts/Emails/adelle_reg-webfont.eot');
+    src: url('https://litmus.com/fonts/Emails/adelle_reg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://litmus.com/fonts/Emails/adelle_reg-webfont.woff') format('woff'),
+         url('https://litmus.com/fonts/Emails/adelle_reg-webfont.ttf') format('truetype'),
+         url('https://litmus.com/fonts/Emails/adelle_reg-webfont.svg#adelle_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: 'proxima_nova_rgregular';
+    background: #eeeee9;
+    height: auto;
+    min-height: calc(100vh - 120px);
+    overflow-x: hidden;
+}
+
+
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #fff;
+    padding-bottom: 10px;
+}
+a {
+    text-decoration: none;
+}
+button {
+    cursor: pointer;
+}
+.dialog .MuiPaper-root {
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 0;
+}
+.dialog.select .MuiPaper-root {
+    width: 80% !important;
+    height: 60% !important;
+    border-radius: 0;
+}
+.dialog.full_screen .MuiPaper-root {
+    width: 85% !important;
+    height: 85% !important;
+    border-radius: 0;
+}
+.dialog.carousel .MuiPaper-root {
+    width: 420px !important;
+    height: 550px !important;
+}
+.dialog.terms-dialog .MuiPaper-root {
+    min-width: 60% !important;
+    height: auto !important;
+    border-radius: 10px;
+    border: 4px solid rgba(0, 0, 0, .87);
+    padding-bottom: 20px;
+}
+.slick-slider {
+    height: 100% !important;
+}
+.slick-list {
+    height: 100% !important;
+}
+.slick-track {
+    height: 100% !important;
+}
+
+.slick-prev .slick-next{
+background: white;
+width: 30px;
+height: 30px;
+}
+
+.slick-next:hover{
+    background: white;
+    width: 30px;
+    height: 30px;
+}
+
+.slick-prev:hover{
+    background: white;
+    width: 30px;
+    height: 30px;
+}
+
+.slick-prev::before{
+    background-image: url("./images/left_arrow.png");
+    /* background-size: 25px 20px; */
+    background-size: 10px 20px;
+    display: inline-block;
+    width: 10px; 
+    height: 20px;
+    content: "";
+}
+
+.slick-next::before{
+    background-image: url("./images/right_arrow.png");
+    background-size: 10px 20px;
+    display: inline-block;
+    width: 10px; 
+    height: 20px;
+    content:"";
+}
+
+.slick-arrow.slick-prev {
+    left: 12px !important;
+    z-index: 2;
+}
+.slick-arrow.slick-next {
+    right: 12px !important;
+}
+@media (max-width: 576px) {
+    .dialog.select .MuiPaper-root {
+        margin: 10px;
+        width: 100% !important;
+        height: max-content !important;
+        border-radius: 0;
+    }
+    .dialog.full_screen .MuiPaper-root {
+        width: 100% !important;
+        height: 300px !important;
+        border-radius: 0;
+        /* margin: 20px 0; */
+        margin: 20px 5%;
+    }
+    .dialog .MuiPaper-root {
+        margin: 0;
+    }
+    .dialog.carousel .MuiPaper-root  {
+        margin: 10px;
+        height: 560px !important;
+    }
+}
