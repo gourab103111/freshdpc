@@ -1,0 +1,173 @@
+{
+    "New":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/New_Error.jpg' alt='NewError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Active":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Active_Error.jpg' alt='ActiveError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Order Forms":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/OrderForms_Error.jpg' alt='OrderFormsError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Data":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Data_Error.jpg' alt='DataError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Nikomate":{
+        "display" : "on",
+        "value":"Active",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Nikomate_Active.jpg' alt='NikomateActive.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Merged":{
+        "display" : "on",
+        "value":"Active",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Merged_Active.jpg' alt='MergedActive.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Proof":{
+        "display" : "on",
+        "value":"Active",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Proof_Active.jpg' alt='ProofActive.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Post Production":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/PostProduction_Error.jpg' alt='PostProductionError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Packs":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Packs_Error.jpg' alt='PacksError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Cutoff":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Cutoff_Error.jpg' alt='CutoffError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Preflight":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Preflight_Error.jpg' alt='PreflightError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Printed":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Printed_Error.jpg' alt='PrintedError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+    "Production":{
+        "display" : "on",
+        "value":"Error",
+        "htmlcontent":[
+            "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+            "<img class='imgtagclass' src='/BookingStatusImages/Production_Error.jpg' alt='ProductionError.jpg'></img>",
+            "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+        ]
+    },
+"Manufacture":{
+    "display" : "on",
+    "value":"Error",
+    "htmlcontent":[
+        "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+        "<img class='imgtagclass' src='/BookingStatusImages/Manufacture_Error.jpg' alt='ManufactureError.jpg'></img>",
+        "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+    ]
+},
+"Transit":{
+    "display" : "on",
+    "value":"Error",
+    "htmlcontent":[
+        "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+        "<img class='imgtagclass' src='/BookingStatusImages/Transit_Error.jpg' alt='TransitError.jpg'></img>",
+        "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+    ]
+},
+"Packing":{
+    "display" : "on",
+    "value":"Error",
+    "htmlcontent":[
+        "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+        "<img class='imgtagclass' src='/BookingStatusImages/Packing_Error.jpg' alt='PackingError.jpg'></img>",
+        "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+    ]
+},
+"Despatch":{
+    "display" : "on",
+    "value":"Error",
+    "htmlcontent":[
+        "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+        "<img class='imgtagclass' src='/BookingStatusImages/Despatch_Error.jpg' alt='DespatchError.jpg'></img>",
+        "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+    ]
+},
+"NoInternet":{
+    "display" : "on",
+    "value":"Error",
+    "htmlcontent":[
+        "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+        "<img class='imgtagclass' src='/BookingStatusImages/NoInternet_Error.jpg' alt='NoInternetError.jpg'></img>",
+        "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+    ]
+},
+"Other":{
+    "display" : "on",
+    "value":"Error",
+    "htmlcontent":[
+        "<h3 class='atagclass'>This is optional message heading, you can edit it in lookup file</h3>",
+        "<img class='imgtagclass' src='/BookingStatusImages/Other_Error.jpg' alt='OtherError.jpg'></img>",
+        "<p class='ptagclass'>This is another optional message line , you can edit it in lookup file</p>"
+    ]
+}
+}

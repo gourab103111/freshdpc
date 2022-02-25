@@ -1,0 +1,19 @@
+{
+    "From": "noreply@DPC.com",
+    "Subject": "Image Selection Confirmation",
+    "CC": "prakheb@yahoo.com",
+    
+	"Body": "<![CDATA[<div><img src='https://photos.dpcpix.com/images/Email_Image.png' alt='Email_Image.png' width='180' height='70'/></div><br/><div> Dear &nbsp; <cname> <$_Firstname> <$_Lastname>,<div><br/></div><div>Congratulations !<br/><div>You have successfully  selected image(s). Your image selection details with us are as below. &nbsp; </div><div><br/></div><div><sname>Student Token :<span class='Apple-tab-span' style='white-space:pre'> </span><b><font color='red'><$_StudentCode></font></b></sname></div><br /> Composite Image Chosen (C): <$_ComposeImage><br /> Portrait Image Chose (P): <$_PortraitImage><div><br/></div><div>Thank you &nbsp;</div><div><font size='4' color='#660066'><b>DPC</font></b></div></div></div>]]>",
+    
+	"Bodyforpayment": "<![CDATA[<div><img src='https://photos.dpcpix.com/images/Email_Image.png' alt='Email_Image.png' width='180' height='70'/></div><br/><div> Dear &nbsp; <cname> <$_Firstname> <$_Lastname>,<div><br/></div><div>Congratulations !<br/><div>You have successfully  selected image(s). Your image selection details with us are as below. &nbsp; </div><div><br/></div><div><sname>Student Token:<span class='Apple-tab-span' style='white-space:pre'> </span><b><font color='red'><$_StudentCode></font></b></sname></div><br /> Composite Image Chosen (C): <$_ComposeImage><br /> Portrait Image Chose (P): <$_PortraitImage><p>Your sitting fee is required. Payment is due today! Late payments will incur extra fees. Proceed to payment by clicking this link. Please ignore it, if already paid - <a href='$_Paymenturl' target='_blank'>[Paymenturl]</a></p> <div>Thank you &nbsp;</div><div><font size='4' color='#660066'><b>DPC</font></b></div></div></div>]]>",
+    
+	"Sms_message": "Dear <$_Firstname> <$_Lastname>, Congratulations! Your image selection details with us are as below- \nStudent Token: <$_StudentCode>\nComposite (C): <$_ComposeImage>\nPortrait (P): <$_PortraitImage>\nThank you,\nDPC.",
+    
+	"Sms_messageforpayment":"Dear <$_Firstname> <$_Lastname>, Congratulations! Your image selection details with us are as below- \nStudent Token: <$_StudentCode>\nComposite (C): <$_ComposeImage>\nPortrait (P): <$_PortraitImage>\nYour sitting fee is due, please click this link to proceed with payment. Please ignore it, if allready paid - <$_Paymenturl>\nThank you,\nDPC.",
+    
+	"Phone_number": "",
+    "SMS_Activation": "Always",
+    "SMS_Options": "Always, IfNoEmail, Off",
+    "Email_Activation": "On",
+    "EMAIL_Options": "On, Off"
+}

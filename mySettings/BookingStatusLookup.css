@@ -1,0 +1,17 @@
+.welcome_container p.complete {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 10px 0;
+   /* cursor: pointer; */
+}
+
+.complete_cont p {
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+}
